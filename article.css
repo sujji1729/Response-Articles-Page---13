@@ -1,0 +1,83 @@
+
+.blue-background {
+    background-color: #225db0;
+    height: 600vh;
+    background-size: cover;
+    margin-top: 35px;
+    padding: 25px;
+}
+
+.articla-page {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 42px;
+
+}
+
+
+.empower-head {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 32px;
+    margin-top: 20px;
+
+}
+
+.by-para {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.teechnology-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 180px;
+    height: 90px;
+    text-align: center;
+    padding: 12px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    color: #1f2933;
+    font-family: "Roboto";
+
+}
+
+.technology-image {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 5px;
+}
+
+.blue-background2 {
+    background-color: #225db0;
+    height: 210vh;
+    background-size: cover;
+    margin-top: 35px;
+    padding: 20px;
+}
+
+.listoftopics-head {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.list-items {
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.separate-list {
+    margin-bottom: 10px;
+}
+
+.back-button {
+    width: 60px;
+    font-size: 10px;
+}
